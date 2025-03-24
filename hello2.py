@@ -1,0 +1,1 @@
+print('Namaste, from hello2.py.')
